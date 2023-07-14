@@ -27,7 +27,7 @@
 
 # 📖 Hello Rails Back-end <a name="about-project"></a>
 
-Hello Rails Back-end is a backend web application that handles the API to display a random greeting message on screen using [Hello React Front-end]() as front-end
+Hello Rails Back-end is a backend web application that handles the API to display a random greeting message on screen using [Hello React Front-end](https://github.com/Balikuddembe/hello-react-front-end) as front-end
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -111,11 +111,11 @@ To run tests, run the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Paulina Gonzalez**
+👤 **Emmanuel Balikuddembe**
 
-- GitHub: [@paulinagonzalezc](https://github.com/Balikuddembe)
-- Twitter: [@paulinagzzc](https://twitter.com/BalixEmma)
-- LinkedIn: [Paulina Gonzalez Cantu](https://www.linkedin.com/in/emmanuelbalikuddembe/)
+- GitHub: [@Balikuddembe](https://github.com/Balikuddembe)
+- Twitter: [@BalixEmma](https://twitter.com/BalixEmma)
+- LinkedIn: [emmanuelbalikuddembe](https://www.linkedin.com/in/emmanuelbalikuddembe/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
